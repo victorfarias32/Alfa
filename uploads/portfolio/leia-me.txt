@@ -1,0 +1,19 @@
+Projeto: Jornal O Trombeta em Realidade Aumentada
+Cliente: Jornal O Trombeta
+Resultados: Proporciona interatividade para o periódico semanal, apresentando vídeos sobre as matérias do Jornal, além de oferecer promoções e descontos dos anunciantes.
+
+Projeto: Cardápio em Realidade Aumentada
+Cliente: Restaurante Oazo (Agência Matutando)
+Resultados: Apresentação dos pratos principais do Restaurante Oazo em 3D, proporcionando uma experiência interativa para os clientes na escolha do prato que deseja usufruir.
+
+Projeto: Livro Didático da Prefeitura de Ibirité-MG
+Cliente: Editora Trato
+Resultados: Proporciona uma experiência interativa para os estudantes do Ensino Fundamental, apresentando pontos turísticos da cidade de Ibirité-MG em objetos 3D animados, utilizando-se da tecnologia da Realidade Aumentada.
+
+Projeto: Visita ao Gabinete Virtual
+Cliente: Candidatos à Prefeito e Vereador
+Resultados: Apresentação da prestação de contas do mandato eletivo, além das propostas de Projetos de Lei e Planos de Governo.
+
+Projeto: Bootcamp Inovando em 4 horas
+Cliente: Redes públicas e privadas (Escolas)
+Resultados: Treinamento/Formação para Professores com foco em tecnologia e inovação, proporcionando novos recursos e métodos pedagógicos de atualização profissional, com vista a melhoria da experiência e da qualidade do ensino.
